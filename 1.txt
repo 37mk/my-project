@@ -1,3 +1,4 @@
 test case1
+some text
 
 test case2
